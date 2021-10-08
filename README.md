@@ -4,7 +4,7 @@
 
 <main>
   
-  <img src="" alt="Foto Diana">
+  <img src="https://github.com/dizurita/mywebsite/blob/main/Diana%20Z%20foto.jpeg" alt="Foto Diana">
 <h2>Hi I am Diana<h2>
 
   <p>I am enjoy creating websites, digital marketing, and SEO.</p>
