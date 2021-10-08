@@ -4,8 +4,9 @@
 
 <main>
   
-  <img src="https://github.com/dizurita/mywebsite/blob/main/Diana%20Z%20foto.jpeg" alt="Foto Diana">
-<h2>Hi I am Diana<h2>
+  <h2>Hi I am Diana<h2>
+  
+   <img src="https://github.com/dizurita/mywebsite/blob/71f81b17f53c5e4f9d95e120fa97709831986c63/Diana%20Z%20foto.jpeg" alt="Foto Diana"> 
 
   <p>I am enjoy creating websites, digital marketing, and SEO.</p>
   <p>I love reading about tecnology, SEO, and investments.</p>
