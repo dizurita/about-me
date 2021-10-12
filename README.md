@@ -8,14 +8,16 @@
     
    <img src="Diana Z foto.jpeg" alt="Diana Z">
 
-  <p>I am enjoy creating websites, digital marketing, and SEO.</p>
-  <p>I love reading about tecnology, SEO, digtal marketing, branding, data analysis, and investments.</p>
+  <p>I am enjoy creating websites on WordPress, digital marketing, and SEO.</p>
+  <p>I love reading about tecnology, SEO, digital marketing, branding, data analysis, and investments.</p>
+  <p>My skills are HTML, CCS, and I am currently learning JavaScript.</p>
   <p>My hobbies are: taking walks, yoga, and floral design.</p>
 
 <h2>Hola! soy Diana 👋<h2>
 
-  <p>Me gusta crear websites, marketing digital y SEO.</p>
+  <p>Me gusta crear websites en WordPress, marketing digital y SEO.</p>
   <p>Me encanta leer sobre temas de tecnología, SEO, marketing digital, branding, analisis de datos e inversiones.</p>
+  <p>En mi trabajo uso HTML, CCS, and I am currently learning JavaScript.</p>
   <p>Mis hobbies son: salir a pasear, el yoga y el diseño floral.</p>
 </main>
  
