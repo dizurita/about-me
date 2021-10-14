@@ -11,7 +11,6 @@
     <p>I love reading about technology, SEO, digital marketing, branding, data analysis, and investments.</p>
     <p>I am a self learner, click to find out more about my <a href="#skills-header">skills.</a>  
     <p>I speak Spanish (native) and English (Professional)
-    <p>My hobbies are: taking walks, yoga, and floral design.</p>
     <p>Contact me on <a href="https://www.linkedin.com/in/dzurita" target="_blank">LinkedIn</a> </p> <!--Comment: target="_blank" esta bien, pero github no lo ejecuta.-->
        <h3 id="skills-header">Skills</h3>
         <ul>
@@ -22,7 +21,19 @@
           <li>Google Ads</li>
           <li>Hubspot</li>
           <li>Moz</li>
-         </ul
+    </ul>
+     <h3>Hobbies</h3>
+    <ol>
+          <li>Floral design</li>
+          <li>Yoga</li>
+          <li>Reading</li>
+          <li>Taking walks</li>
+          <li>Travelling</li>
+          <li>Cooking</li>
+    </ol>
+    
+    
+    
           
   </main>
  
