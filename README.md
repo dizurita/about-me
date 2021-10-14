@@ -12,7 +12,7 @@
     <p>I am a self learner, click to find out more about my <a href="#skills-header">skills.</a>  
     <p>I speak Spanish (native) and English (Professional)
     <p>My hobbies are: taking walks, yoga, and floral design.</p>
-    <p>Contact me on <a href="https://www.linkedin.com/in/dzurita" target="_blank">LinkedIn</a> </p> 
+    <p>Contact me on <a href="https://www.linkedin.com/in/dzurita" target="_blank">LinkedIn</a> </p> <!--Comment: target="_blank" esta bien, pero github no lo ejecuta.-->
        <h3 id="skills-header">Skills</h3>
         <ul>
           <li>HTML</li>
@@ -24,8 +24,7 @@
           <li>Moz</li>
          </ul
           
-          [go](http://stackoverflow.com){:target="_blank"}
-</main>
+  </main>
  
 <!--This is a comment. HTML5 Descriptive HTML tags. These include main, header, footer, nav, video, article, section and others.
 These tags give a descriptive structure to your HTML, make your HTML easier to read, and help with SEO and accessibility.--> 
