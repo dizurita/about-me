@@ -12,7 +12,7 @@
     <p>I am a self learner, click to find out more about my <a href="#skills-header">skills.</a>  
     <p>I speak Spanish (native) and English (Professional)
     <p>My hobbies are: taking walks, yoga, and floral design.</p>
-    <p>Contact me on <a href="https://www.linkedin.com/in/dzurita/ target="_blank">LinkedIn</a></p>
+    <p>Contact me on <a href="https://www.linkedin.com/in/dzurita/ target="_blank">LinkedIn</a> </p>
        <h3 id="skills-header">Skills</h3>
         <ul>
           <li>HTML</li>
